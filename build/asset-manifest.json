@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.315241e6.css",
+    "main.js": "/static/js/main.37622cf3.js",
+    "static/js/453.56f46472.chunk.js": "/static/js/453.56f46472.chunk.js",
+    "static/media/4.jpg": "/static/media/4.30a1520b3b9fa3b79b60.jpg",
+    "static/media/1.jpg": "/static/media/1.5b5a55e86d2d06f1eb4e.jpg",
+    "static/media/3.jpg": "/static/media/3.aa57cca861499cd897f9.jpg",
+    "static/media/clothes_for_everyone.png": "/static/media/clothes_for_everyone.b65a8c32826ee5ecc5f3.png",
+    "static/media/2.jpg": "/static/media/2.7ce06f67d7af4683da20.jpg",
+    "static/media/5.jpg": "/static/media/5.e451726714e5edf180fe.jpg",
+    "static/media/p1.jpg": "/static/media/p1.b77dba3a7aa6f0874e35.jpg",
+    "static/media/map.jpg": "/static/media/map.e2cc5212f1fc7187724c.jpg",
+    "static/media/uindbase.ttf": "/static/media/uindbase.0f3ffd2bcf24eb25c3f1.ttf",
+    "static/media/photo1.jpg": "/static/media/photo1.01c05cabd1e777fc7823.jpg",
+    "static/media/usually_bold.ttf": "/static/media/usually_bold.b1aefbf15b0038d38910.ttf",
+    "static/media/usually.ttf": "/static/media/usually.5823251aede99253ae3a.ttf",
+    "static/media/pic1.jpg": "/static/media/pic1.c19f82ddc807106579ab.jpg",
+    "static/media/ico_tg.svg": "/static/media/ico_tg.4479422509254b12384cc6d549748187.svg",
+    "static/media/ico_vk.svg": "/static/media/ico_vk.9fe08d4c9492e895944a2f3351298e33.svg",
+    "static/media/ico_tiktok.svg": "/static/media/ico_tiktok.d783e457c48b845de109b0f704f56076.svg",
+    "static/media/ico_inst.svg": "/static/media/ico_inst.0a2dbd9ecff86fa2a6b02ccd126f1b43.svg",
+    "index.html": "/index.html",
+    "main.315241e6.css.map": "/static/css/main.315241e6.css.map",
+    "main.37622cf3.js.map": "/static/js/main.37622cf3.js.map",
+    "453.56f46472.chunk.js.map": "/static/js/453.56f46472.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.315241e6.css",
+    "static/js/main.37622cf3.js"
+  ]
+}
