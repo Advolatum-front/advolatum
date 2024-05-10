@@ -9,6 +9,7 @@ import MainCarousel from "../../components/MainCarousel";
 import "./index.css";
 
 const MainPage = () => {
+  // Вывод сообщения при нажатии кнопки «В корзину»
   const handleProductBuy = () => {
     alert("Товар добавлен в корзину");
   };
