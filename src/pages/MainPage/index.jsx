@@ -35,7 +35,7 @@ const MainPage = () => {
           backTextClassName="back-text-class"
           childrenContainerClassName="children-container-right"
         >
-          <h2 className="children-class">Акутальное</h2>
+          <h2 className="children-class">Актуальное</h2>
         </BackTextHeader>
         <CurrentProductsList
           onBuyProduct={handleProductBuy}
